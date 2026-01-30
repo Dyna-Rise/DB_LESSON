@@ -16,15 +16,22 @@
         <input type="text" name="user_id" id="user_id">
     </div>
 
+    <div>
     <label for="pass">パスワード</label>
     <input type="text" name="pass" id="pass">
+</div>
 
+    <div>
     <label for="username">お名前</label>
     <input type="text" name="username" id="username">
+    </div>
 
+    <div>
     <label for="age">ご年齢</label>
     <input type="text" name="age" id="age">
+</div>
 
+<div>
     <h2>性別</h2>
 
     <label for="men">男</label></label>
@@ -32,12 +39,17 @@
 
     <label for="women">女</label></label>
     <input type="radio" name="gender" id="women">
+    </div>
 
+    <div>
     <label for="tell">電話番号</label>
     <input type="text" name="tell" id="tell">
+</div>
 
+<div>
     <label for="address">住所</label>
     <input type="text" name="address" id="address">
+</div>
 
 </body>
 
