@@ -8,7 +8,8 @@
 <body>
     <h1>入力フォームページ</h1>
     <p>ここに新規登録の情報を入力してください</p>
-<input type="text" name="user_id">
+    <label for="user_id">ユーザーID</label>
+    <input type="text" name="user_id" id="user_id">
 
 </body>
 </html>
