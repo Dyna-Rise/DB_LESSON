@@ -52,6 +52,8 @@
         <input type="text" name="address" id="address">
     </div>
 
+    <input type="submit" value="登録">
+
 </body>
 
 </html>
